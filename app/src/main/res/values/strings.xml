@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">RecycleMe</string>
+    <string name="link">Link</string>
+    <string name="titleNews">Title News</string>
+    <string name="news">News</string>
+    <string name="user_icon">User Icon</string>
+    <string name="start">START</string>
+    <string name="Gallery">Galeri</string>
+    <string name="Upload">Upload</string>
+    <string name="Camera">Kamera</string>
+    <string name="foto">Foto</string>
+    <string name="title_news">Judul Berita</string>
+    <string name="news_rate">Rating Berita</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="result1">Hasil Analisis : Limbah Organik 95%</string>
+    <string name="advise1">Limbah ini dapat didaur ulang. Ditunggu kedatangannya di pusat daur ulang terdekat.</string>
+    <string name="lokasi">Telusuri Lokasi</string>
+    <string name="advise2">Limbah ini tidak dapat didaur ulang. Mohon buanglah sampah pada tempatnya.</string>
+    <string name="result2">Hasil Analisis : Limbah Anorganik 95%</string>
+    <string name="act_button">Selesai</string>
+    <string name="success">Terima Kasih Atas Partisipasinya</string>
+    <string name="success_desc">Sudah berkontribusi membantu menciptakan dunia yang lebih baik untuk generasi mendatang.</string>
+    <string name="title_signup_page">Join us and get your next journey</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="signup">Register Now</string>
+    <string name="password">Password</string>
+    <string name="login">Login Now</string>
+    <string name="title_login_page">Login</string>
+    <string name="empty_image_warning">Tidak ada gambar</string>
+    <string name="title_welcome_page">Welcome to RecycleMe!</string>
+    <string name="message_welcome_page">Join us in transforming waste into valuable resources through our recycling program to take the first step towards a cleaner and more sustainable environment!</string>
+
+</resources>
